@@ -1,0 +1,14 @@
+{
+	"9adf8921-bb75-4318-b5ea-5913940ed5a6": {
+		"ID_": "9adf8921-bb75-4318-b5ea-5913940ed5a6",
+		"CommonName": "CHAR_Global_Hero_Laundry_Day_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_Outfits_laundry_day.jpg",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME",
+		"Category": "",
+		"ImageTransparent": "",
+		"TokenID": "TOKEN_OUTFIT_HERO_LAUNDRY_DAY"
+	}
+}
