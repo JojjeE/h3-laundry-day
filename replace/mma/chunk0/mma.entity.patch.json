@@ -1,45 +1,45 @@
 {
-    "tempHash": "00097AA87B144150",
-    "tbluHash": "00E738E7CF7A35E1",
-    "patch": [
-        {
-            "SubEntityOperation": [
-                "efe0b4aab8f387d2",
-                {
-                    "SetFactory": "002A569D2415E84A"
-                }
-            ]
-        },
-        {
-            "SubEntityOperation": [
-                "efe0b4aab8f387d2",
-                {
-                    "SetBlueprint": "00D809115FFBA668"
-                }
-            ]
-        },
-        {
-            "SubEntityOperation": [
-                "b2a3946e64ba75fe",
-                {
-                    "SetPropertyValue": {
-                        "property_name": "m_eSoundFootwearType",
-                        "value": "EFWT_BAREFOOT"
-                    }
-                }
-            ]
-        },
-        {
-            "SubEntityOperation": [
-                "b2a3946e64ba75fe",
-                {
-                    "SetPropertyValue": {
-                        "property_name": "m_eOutfitAICategory",
-                        "value": "OAC_Fallback"
-                    }
-                }
-            ]
-        }
-    ],
-    "patchVersion": 6
+	"tempHash": "00097AA87B144150",
+	"tbluHash": "00E738E7CF7A35E1",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"efe0b4aab8f387d2",
+				{
+					"SetFactory": "002A569D2415E84A"
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"efe0b4aab8f387d2",
+				{
+					"SetBlueprint": "00D809115FFBA668"
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b2a3946e64ba75fe",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_eSoundFootwearType",
+						"value": "EFWT_BAREFOOT"
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b2a3946e64ba75fe",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_eOutfitAICategory",
+						"value": "OAC_Fallback"
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }

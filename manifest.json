@@ -3,9 +3,9 @@
 	"name": "Laundry Day",
 	"description": "Listen, sometimes you just forget to do laundry before going out assassinating. Install it for Peacock or replace a casual suit of your choice.",
 	"authors": ["Jojje"],
-	"frameworkVersion": "2.25.0",
-	"version": "1.2.1",
-	"updateCheck": "https://github.dioden.nu/updateChecks/laundryday.json",
+	"frameworkVersion": "2.33.18",
+	"version": "1.3.0",
+	"updateCheck": "https://github.com/JojjeE/h3-laundry-day/releases/latest/download/updates.json",
 	"contentFolders": ["base"],
 	"options": [
 		{
@@ -14,12 +14,8 @@
 			"type": "select",
 			"tooltip": "Install the suit to your game as an addon without replacing existing suits. This will only work if you're playing with Peacock.",
 			"enabledByDefault": true,
-			"contentFolders": [
-				"replace/addon"
-			],
-			"blobsFolders": [
-				"blobs/addon"
-			],
+			"contentFolders": ["replace/addon"],
+			"blobsFolders": ["blobs/addon"],
 			"localisedLines": {
 				"003840CD4676E634": "UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC",
 				"00FBD9F1BABF93F5": "UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME"
@@ -55,12 +51,8 @@
 			"group": "Replace",
 			"name": "Casual Suit with Gloves",
 			"type": "select",
-			"contentFolders": [
-				"replace/bangkok"
-			],
-			"blobsFolders": [
-				"blobs/bangkok"
-			],
+			"contentFolders": ["replace/bangkok"],
+			"blobsFolders": ["blobs/bangkok"],
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
 					"english": {
@@ -94,12 +86,8 @@
 			"group": "Replace",
 			"name": "Italian Suit with Gloves",
 			"type": "select",
-			"contentFolders": [
-				"replace/sapienza"
-			],
-			"blobsFolders": [
-				"blobs/sapienza"
-			],
+			"contentFolders": ["replace/sapienza"],
+			"blobsFolders": ["blobs/sapienza"],
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
 					"english": {
@@ -133,12 +121,8 @@
 			"group": "Replace",
 			"name": "Florida Fit with Gloves",
 			"type": "select",
-			"contentFolders": [
-				"replace/miami"
-			],
-			"blobsFolders": [
-				"blobs/miami"
-			],
+			"contentFolders": ["replace/miami"],
+			"blobsFolders": ["blobs/miami"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -172,12 +156,8 @@
 			"group": "Replace",
 			"name": "Casual Tourist with Gloves",
 			"type": "select",
-			"contentFolders": [
-				"replace/sanfortuna"
-			],
-			"blobsFolders": [
-				"blobs/sanfortuna"
-			],
+			"contentFolders": ["replace/sanfortuna"],
+			"blobsFolders": ["blobs/sanfortuna"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -211,12 +191,8 @@
 			"group": "Replace",
 			"name": "Summer Suave Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/summersuave"
-			],
-			"blobsFolders": [
-				"blobs/summersuave"
-			],
+			"contentFolders": ["replace/summersuave"],
+			"blobsFolders": ["blobs/summersuave"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -250,12 +226,8 @@
 			"group": "Replace",
 			"name": "Summer Sightseeing Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/summersightseeing"
-			],
-			"blobsFolders": [
-				"blobs/summersightseeing"
-			],
+			"contentFolders": ["replace/summersightseeing"],
+			"blobsFolders": ["blobs/summersightseeing"],
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
@@ -289,12 +261,8 @@
 			"group": "Replace",
 			"name": "Casual Undercover",
 			"type": "select",
-			"contentFolders": [
-				"replace/casualundercover"
-			],
-			"blobsFolders": [
-				"blobs/casualundercover"
-			],
+			"contentFolders": ["replace/casualundercover"],
+			"blobsFolders": ["blobs/casualundercover"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -328,12 +296,8 @@
 			"group": "Replace",
 			"name": "Midnight Black Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/midnightblack"
-			],
-			"blobsFolders": [
-				"blobs/midnightblack"
-			],
+			"contentFolders": ["replace/midnightblack"],
+			"blobsFolders": ["blobs/midnightblack"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -367,12 +331,8 @@
 			"group": "Replace",
 			"name": "Summer Suit with Gloves",
 			"type": "select",
-			"contentFolders": [
-				"replace/marrakesh"
-			],
-			"blobsFolders": [
-				"blobs/marrakesh"
-			],
+			"contentFolders": ["replace/marrakesh"],
+			"blobsFolders": ["blobs/marrakesh"],
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
 					"english": {
@@ -406,12 +366,8 @@
 			"group": "Replace",
 			"name": "Tropical Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/tropicalsuit"
-			],
-			"blobsFolders": [
-				"blobs/tropicalsuit"
-			],
+			"contentFolders": ["replace/tropicalsuit"],
+			"blobsFolders": ["blobs/tropicalsuit"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -445,12 +401,8 @@
 			"group": "Replace",
 			"name": "Smart Casual Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/smartcasual"
-			],
-			"blobsFolders": [
-				"blobs/smartcasual"
-			],
+			"contentFolders": ["replace/smartcasual"],
+			"blobsFolders": ["blobs/smartcasual"],
 			"localisationOverrides": {
 				"009F430D046716BE": {
 					"english": {
@@ -484,12 +436,8 @@
 			"group": "Replace",
 			"name": "The Raver",
 			"type": "select",
-			"contentFolders": [
-				"replace/raver"
-			],
-			"blobsFolders": [
-				"blobs/raver"
-			],
+			"contentFolders": ["replace/raver"],
+			"blobsFolders": ["blobs/raver"],
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
@@ -523,37 +471,33 @@
 			"group": "Replace",
 			"name": "Lucky Ducky",
 			"type": "select",
-			"contentFolders": [
-				"replace/luckyducky"
-			],
-			"blobsFolders": [
-				"blobs/luckyducky"
-			],
+			"contentFolders": ["replace/luckyducky"],
+			"blobsFolders": ["blobs/luckyducky"],
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"2760943898": "Laundry Day",
-						"2681050670": "Have you ever had one of those nightmares where you are in the middle of an assassination but you find yourself only in your underwear? Truly mortifying. Now you can live out the nightmare. Why would you do this to yourself?"
+						"2681050670": "Have you ever had one of those nightmares where you are in the middle of an assassination but you find yourself only in your underwear? Truly mortifying. Now you can live out the nightmare. Why would you do this to yourself?",
+						"2760943898": "Laundry Day"
 					},
 					"french": {
-						"2760943898": "Jour de lessive",
-						"2681050670": "Avez-vous déjà fait un de ces cauchemars où vous êtes au milieu d'un assassinat et où vous vous retrouvez en sous-vêtements? C'est vraiment mortifiant. Maintenant, vous pouvez vivre ce cauchemar. Pourquoi vous infliger cela?"
+						"2681050670": "Avez-vous déjà fait un de ces cauchemars où vous êtes au milieu d'un assassinat et où vous vous retrouvez en sous-vêtements? C'est vraiment mortifiant. Maintenant, vous pouvez vivre ce cauchemar. Pourquoi vous infliger cela?",
+						"2760943898": "Jour de lessive"
 					},
 					"italian": {
-						"2760943898": "Giorno del bucato",
-						"2681050670": "Avete mai avuto uno di quegli incubi in cui siete nel bel mezzo di un assassinio e vi ritrovate solo in mutande? Davvero mortificante. Ora potete vivere l'incubo. Perché fare questo a se stessi?"
+						"2681050670": "Avete mai avuto uno di quegli incubi in cui siete nel bel mezzo di un assassinio e vi ritrovate solo in mutande? Davvero mortificante. Ora potete vivere l'incubo. Perché fare questo a se stessi?",
+						"2760943898": "Giorno del bucato"
 					},
 					"german": {
-						"2760943898": "Wäschetag",
-						"2681050670": "Hatten Sie schon einmal einen dieser Albträume, in denen Sie mitten in einem Attentat stecken und sich nur in Ihrer Unterwäsche wiederfinden? Wahrhaft demütigend. Jetzt können Sie diesen Albtraum erleben. Warum würden Sie sich das antun?"
+						"2681050670": "Hatten Sie schon einmal einen dieser Albträume, in denen Sie mitten in einem Attentat stecken und sich nur in Ihrer Unterwäsche wiederfinden? Wahrhaft demütigend. Jetzt können Sie diesen Albtraum erleben. Warum würden Sie sich das antun?",
+						"2760943898": "Wäschetag"
 					},
 					"spanish": {
-						"2760943898": "Día de colada",
-						"2681050670": "¿Has tenido alguna vez una de esas pesadillas en las que estás en medio de un asesinato pero te encuentras sólo en ropa interior? Realmente mortificante. Ahora puedes vivir la pesadilla. ¿Por qué te harías esto a ti mismo?"
+						"2681050670": "¿Has tenido alguna vez una de esas pesadillas en las que estás en medio de un asesinato pero te encuentras sólo en ropa interior? Realmente mortificante. Ahora puedes vivir la pesadilla. ¿Por qué te harías esto a ti mismo?",
+						"2760943898": "Día de colada"
 					},
 					"russian": {
-						"2760943898": "День стирки",
-						"2681050670": "Вам когда-нибудь снился кошмарный сон, в котором вы оказываетесь в центре убийства, но на вас надето только нижнее белье? Очень неприятно. Теперь вы можете пережить этот кошмар. Зачем вам делать это с собой?"
+						"2681050670": "Вам когда-нибудь снился кошмарный сон, в котором вы оказываетесь в центре убийства, но на вас надето только нижнее белье? Очень неприятно. Теперь вы можете пережить этот кошмар. Зачем вам делать это с собой?",
+						"2760943898": "День стирки"
 					}
 				}
 			}
@@ -562,12 +506,8 @@
 			"group": "Replace",
 			"name": "The Disruptor MMA Suit",
 			"type": "select",
-			"contentFolders": [
-				"replace/mma"
-			],
-			"blobsFolders": [
-				"blobs/mma"
-			],
+			"contentFolders": ["replace/mma"],
+			"blobsFolders": ["blobs/mma"],
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
@@ -602,17 +542,13 @@
 			"name": "Tanktop",
 			"type": "select",
 			"enabledByDefault": true,
-			"contentFolders": [
-				"variant/tanktop"
-			]
+			"contentFolders": ["variant/tanktop"]
 		},
 		{
 			"group": "Variant",
 			"name": "No tanktop",
 			"type": "select",
-			"contentFolders": [
-				"variant/notanktop"
-			]
+			"contentFolders": ["variant/notanktop"]
 		}
 	]
 }
