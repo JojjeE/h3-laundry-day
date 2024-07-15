@@ -30,24 +30,24 @@
 					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "Laundry Day"
 				},
 				"french": {
-					"2741280242": "Avez-vous déjà fait un de ces cauchemars où vous êtes au milieu d'un assassinat et où vous vous retrouvez en sous-vêtements? C'est vraiment mortifiant. Maintenant, vous pouvez vivre ce cauchemar. Pourquoi vous infliger cela?",
-					"4086875141": "Jour de lessive"
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC": "Avez-vous déjà fait un de ces cauchemars où vous êtes au milieu d'un assassinat et où vous vous retrouvez en sous-vêtements? C'est vraiment mortifiant. Maintenant, vous pouvez vivre ce cauchemar. Pourquoi vous infliger cela?",
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "Jour de lessive"
 				},
 				"italian": {
-					"2741280242": "Avete mai avuto uno di quegli incubi in cui siete nel bel mezzo di un assassinio e vi ritrovate solo in mutande? Davvero mortificante. Ora potete vivere l'incubo. Perché fare questo a se stessi?",
-					"4086875141": "Giorno del bucato"
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC": "Avete mai avuto uno di quegli incubi in cui siete nel bel mezzo di un assassinio e vi ritrovate solo in mutande? Davvero mortificante. Ora potete vivere l'incubo. Perché fare questo a se stessi?",
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "Giorno del bucato"
 				},
 				"german": {
-					"2741280242": "Hatten Sie schon einmal einen dieser Albträume, in denen Sie mitten in einem Attentat stecken und sich nur in Ihrer Unterwäsche wiederfinden? Wahrhaft demütigend. Jetzt können Sie diesen Albtraum erleben. Warum würden Sie sich das antun?",
-					"4086875141": "Wäschetag"
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC": "Hatten Sie schon einmal einen dieser Albträume, in denen Sie mitten in einem Attentat stecken und sich nur in Ihrer Unterwäsche wiederfinden? Wahrhaft demütigend. Jetzt können Sie diesen Albtraum erleben. Warum würden Sie sich das antun?",
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "Wäschetag"
 				},
 				"spanish": {
-					"2741280242": "¿Has tenido alguna vez una de esas pesadillas en las que estás en medio de un asesinato pero te encuentras sólo en ropa interior? Realmente mortificante. Ahora puedes vivir la pesadilla. ¿Por qué te harías esto a ti mismo?",
-					"4086875141": "Día de colada"
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC": "¿Has tenido alguna vez una de esas pesadillas en las que estás en medio de un asesinato pero te encuentras sólo en ropa interior? Realmente mortificante. Ahora puedes vivir la pesadilla. ¿Por qué te harías esto a ti mismo?",
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "Día de colada"
 				},
 				"russian": {
-					"2741280242": "Вам когда-нибудь снился кошмарный сон, в котором вы оказываетесь в центре убийства, но на вас надето только нижнее белье? Очень неприятно. Теперь вы можете пережить этот кошмар. Зачем вам делать это с собой?",
-					"4086875141": "День стирки"
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_DESC": "Вам когда-нибудь снился кошмарный сон, в котором вы оказываетесь в центре убийства, но на вас надето только нижнее белье? Очень неприятно. Теперь вы можете пережить этот кошмар. Зачем вам делать это с собой?",
+					"UI_TOKEN_OUTFIT_HERO_LAUNDRY_DAY_NAME": "День стирки"
 				}
 			}
 		},
