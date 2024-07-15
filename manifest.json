@@ -559,6 +559,45 @@
 			}
 		},
 		{
+			"group": "Replace",
+			"name": "The Disruptor MMA Suit",
+			"type": "select",
+			"contentFolders": [
+				"replace/mma"
+			],
+			"blobsFolders": [
+				"blobs/mma"
+			],
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Laundry Day",
+						"1983537489": "Have you ever had one of those nightmares where you are in the middle of an assassination but you find yourself only in your underwear? Truly mortifying. Now you can live out the nightmare. Why would you do this to yourself?"
+					},
+					"french": {
+						"598520579": "Jour de lessive",
+						"1983537489": "Avez-vous déjà fait un de ces cauchemars où vous êtes au milieu d'un assassinat et où vous vous retrouvez en sous-vêtements? C'est vraiment mortifiant. Maintenant, vous pouvez vivre ce cauchemar. Pourquoi vous infliger cela?"
+					},
+					"italian": {
+						"598520579": "Giorno del bucato",
+						"1983537489": "Avete mai avuto uno di quegli incubi in cui siete nel bel mezzo di un assassinio e vi ritrovate solo in mutande? Davvero mortificante. Ora potete vivere l'incubo. Perché fare questo a se stessi?"
+					},
+					"german": {
+						"598520579": "Wäschetag",
+						"1983537489": "Hatten Sie schon einmal einen dieser Albträume, in denen Sie mitten in einem Attentat stecken und sich nur in Ihrer Unterwäsche wiederfinden? Wahrhaft demütigend. Jetzt können Sie diesen Albtraum erleben. Warum würden Sie sich das antun?"
+					},
+					"spanish": {
+						"598520579": "Día de colada",
+						"1983537489": "¿Has tenido alguna vez una de esas pesadillas en las que estás en medio de un asesinato pero te encuentras sólo en ropa interior? Realmente mortificante. Ahora puedes vivir la pesadilla. ¿Por qué te harías esto a ti mismo?"
+					},
+					"russian": {
+						"598520579": "День стирки",
+						"1983537489": "Вам когда-нибудь снился кошмарный сон, в котором вы оказываетесь в центре убийства, но на вас надето только нижнее белье? Очень неприятно. Теперь вы можете пережить этот кошмар. Зачем вам делать это с собой?"
+					}
+				}
+			}
+		},
+		{
 			"group": "Variant",
 			"name": "Tanktop",
 			"type": "select",
