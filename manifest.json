@@ -4,7 +4,7 @@
 	"description": "Listen, sometimes you just forget to do laundry before going out assassinating. Install it for Peacock or replace a casual suit of your choice.",
 	"authors": ["Jojje"],
 	"version": "1.3.0",
-	"frameworkVersion": "3.0.0",
+	"frameworkVersion": "3.0.0-rc.4",
 	"url": "https://github.com/JojjeE/h3-laundry-day",
 	"conditions": { "supportedGames": ["h3"] },
 	"data": { "contentFolders": ["base"] },
